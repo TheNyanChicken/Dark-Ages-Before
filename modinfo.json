@@ -1,0 +1,16 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Dark_Ages_Before",
+    "name": "Dark Ages Before",
+    "authors": [ "NyanChicken" ],
+    "description": "Check the README.md for more details.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "MONSTER_WHITELIST",
+    "mode": "EXCLUSIVE",
+    "categories": [ "WILDLIFE" ]
+  }
+]
